@@ -1,0 +1,893 @@
+﻿Log file open, 10/09/19 18:17:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EVOSimulation
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.052708
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Engine.ini]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Engine.ini]
+[2019.10.10-01.17.39:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Engine.ini]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Engine.ini]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.10-01.17.39:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Engine.ini]
+[2019.10.10-01.17.39:967][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Engine.ini]
+[2019.10.10-01.17.39:970][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.10-01.17.39:970][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.10-01.17.39:970][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.10-01.17.39:970][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.10-01.17.39:971][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.10-01.17.39:971][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.10-01.17.39:971][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.10-01.17.39:973][  0]LogHAL: Display: Platform has ~ 16 GB [17087320064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.10-01.17.39:973][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.10-01.17.39:973][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.10-01.17.39:973][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.10-01.17.39:974][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Config/Windows/Engine.ini]
+[2019.10.10-01.17.39:974][  0]LogInit: Computer: DESKTOP-8UDFSPA
+[2019.10.10-01.17.39:974][  0]LogInit: User: Kotori
+[2019.10.10-01.17.39:974][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.10.10-01.17.39:974][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.10-01.17.39:974][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.10-01.17.39:974][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.10-01.17.39:974][  0]LogMemory: Process Physical Memory: 100.09 MB used, 100.10 MB peak
+[2019.10.10-01.17.39:974][  0]LogMemory: Process Virtual Memory: 99.27 MB used, 99.27 MB peak
+[2019.10.10-01.17.39:974][  0]LogMemory: Physical Memory: 11464.54 MB used,  4831.20 MB free, 16295.74 MB total
+[2019.10.10-01.17.39:975][  0]LogMemory: Virtual Memory: 4670.73 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.10.10-01.17.39:976][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.10-01.17.39:992][  0]LogInit: Using OS detected language (en-US).
+[2019.10.10-01.17.39:992][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.10-01.17.39:992][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.10-01.17.40:117][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.10-01.17.40:145][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.10-01.17.40:145][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.10-01.17.40:251][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.10-01.17.40:251][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.10-01.17.40:299][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.10.10-01.17.40:299][  0]LogD3D11RHI:       8010/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.10-01.17.40:300][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.10-01.17.40:300][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.10-01.17.40:300][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.10-01.17.40:307][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.10-01.17.40:307][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.10-01.17.40:307][  0]LogWindows: EnumDisplayDevices:
+[2019.10.10-01.17.40:307][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.10.10-01.17.40:307][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.10-01.17.40:307][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.10-01.17.40:307][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.10-01.17.40:307][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.10-01.17.40:307][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.10.10-01.17.40:308][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
+[2019.10.10-01.17.40:308][  0]LogD3D11RHI:      Driver Date: 9-25-2018
+[2019.10.10-01.17.40:308][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.10.10-01.17.40:340][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.10-01.17.40:356][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.10-01.17.40:596][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.10-01.17.40:603][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.10-01.17.40:609][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.10-01.17.40:616][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.10-01.17.40:623][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.10-01.17.40:630][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.10-01.17.40:637][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.10-01.17.40:643][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.10-01.17.40:645][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.10-01.17.40:670][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.10-01.17.40:671][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.10-01.17.40:683][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.10-01.17.40:683][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.10-01.17.40:693][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.10-01.17.40:693][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.10-01.17.40:698][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.10-01.17.40:703][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.10-01.17.40:708][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.10-01.17.40:714][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.10-01.17.40:732][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.10-01.17.40:732][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.10-01.17.40:732][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.10-01.17.40:739][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.10-01.17.40:779][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Intermediate/Shaders/WorkingDirectory/10360/).
+[2019.10.10-01.17.40:779][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kotori/AppData/Local/Temp/UnrealShaderWorkingDir/F6CB34004059DB199F26C3BCB51995E7/'.
+[2019.10.10-01.17.40:781][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.10-01.17.40:781][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.10-01.17.40:781][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.10-01.17.41:224][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.10-01.17.41:259][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Kotori/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.10-01.17.41:259][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kotori/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.10-01.17.41:259][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.10-01.17.41:259][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.10-01.17.41:259][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.10-01.17.41:259][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.10-01.17.41:268][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.10-01.17.41:268][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.10-01.17.41:268][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.10-01.17.41:269][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kotori/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.10-01.17.41:269][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.10-01.17.41:269][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.10-01.17.41:283][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.10-01.17.41:285][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.10-01.17.41:285][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.10-01.17.41:325][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2019.10.10-01.17.41:501][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.10-01.17.41:609][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.10-01.17.41:609][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.10-01.17.41:609][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.10-01.17.41:609][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.10-01.17.41:609][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.10-01.17.41:619][  0]LogNetVersion: EVOSimulation 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1978996010)
+[2019.10.10-01.17.41:947][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.034028 seconds
+[2019.10.10-01.17.41:953][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.10-01.17.41:953][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.10-01.17.41:953][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.10-01.17.42:567][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.10-01.17.42:595][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.10-01.17.42:635][  0]SourceControl: Source control is disabled
+[2019.10.10-01.17.42:635][  0]SourceControl: Source control is disabled
+[2019.10.10-01.17.42:636][  0]SourceControl: Source control is disabled
+[2019.10.10-01.17.42:637][  0]SourceControl: Source control is disabled
+[2019.10.10-01.17.42:700][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.10-01.17.42:894][  0]LogOcInput: OculusInput pre-init called
+[2019.10.10-01.17.42:900][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.10-01.17.42:900][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.10-01.17.42:951][  0]LogEngine: Initializing Engine...
+[2019.10.10-01.17.42:952][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.10-01.17.42:954][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.10-01.17.43:117][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.10-01.17.43:127][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.10-01.17.43:222][  0]LogInit: XAudio2 using 'Speakers (Sound BlasterX AE-5)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.10-01.17.43:235][  0]LogInit: FAudioDevice initialized.
+[2019.10.10-01.17.43:235][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.10-01.17.43:297][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/Kotori/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.10-01.17.43:301][  0]LogInit: Texture streaming: Enabled
+[2019.10.10-01.17.43:314][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.10-01.17.43:338][  0]LogInit: Transaction tracking system initialized
+[2019.10.10-01.17.43:362][  0]BlueprintLog: New page: Editor Load
+[2019.10.10-01.17.43:445][  0]LocalizationService: Localization service is disabled
+[2019.10.10-01.17.43:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/' took 0.00s
+[2019.10.10-01.17.43:641][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.10-01.17.43:641][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.10-01.17.43:778][  0]SourceControl: Source control is disabled
+[2019.10.10-01.17.43:783][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.23/FeaturePacks/StarterContent.upack)
+[2019.10.10-01.17.43:788][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.10.10-01.17.43:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.10.10-01.17.43:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.10.10-01.17.43:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.10.10-01.17.43:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.10.10-01.17.43:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.10.10-01.17.43:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.10.10-01.17.43:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.10.10-01.17.43:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.10.10-01.17.43:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.10.10-01.17.43:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.10.10-01.17.43:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.10.10-01.17.43:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.10.10-01.17.43:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.10.10-01.17.43:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.10.10-01.17.43:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.10.10-01.17.43:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.10.10-01.17.43:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.10.10-01.17.43:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Fire01.uasset"
+[2019.10.10-01.17.43:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.10.10-01.17.43:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.10.10-01.17.43:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.10.10-01.17.43:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Light01.uasset"
+[2019.10.10-01.17.43:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.10.10-01.17.43:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Light02.uasset"
+[2019.10.10-01.17.43:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.10.10-01.17.43:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.10.10-01.17.43:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.10.10-01.17.43:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.10.10-01.17.43:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.10.10-01.17.43:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.10.10-01.17.43:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.10.10-01.17.44:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.10.10-01.17.44:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.10.10-01.17.44:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Steam01.uasset"
+[2019.10.10-01.17.44:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.10.10-01.17.44:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.10.10-01.17.44:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.10.10-01.17.44:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.10.10-01.17.44:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.10.10-01.17.44:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.10.10-01.17.44:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.10.10-01.17.44:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.10.10-01.17.44:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.10.10-01.17.44:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.10.10-01.17.44:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.10.10-01.17.44:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.10.10-01.17.44:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.10.10-01.17.44:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.10.10-01.17.44:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.10.10-01.17.44:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.10.10-01.17.44:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.10.10-01.17.44:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.10.10-01.17.44:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.10.10-01.17.44:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.10.10-01.17.44:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.10.10-01.17.44:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.10.10-01.17.44:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Maps/StarterMap.umap"
+[2019.10.10-01.17.44:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.10.10-01.17.44:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.10.10-01.17.44:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.10.10-01.17.44:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.10.10-01.17.44:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.10.10-01.17.44:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.10.10-01.17.44:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.10.10-01.17.44:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.10.10-01.17.44:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.10.10-01.17.44:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.10.10-01.17.44:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.10.10-01.17.44:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.10.10-01.17.44:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.10.10-01.17.44:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.10.10-01.17.44:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.10.10-01.17.44:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.10.10-01.17.44:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.10.10-01.17.44:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.10.10-01.17.44:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.10.10-01.17.44:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.10.10-01.17.44:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.10.10-01.17.44:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.10.10-01.17.44:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.10.10-01.17.44:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.10.10-01.17.44:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.10.10-01.17.44:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.10.10-01.17.44:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.10.10-01.17.44:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.10.10-01.17.44:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.10.10-01.17.44:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.10.10-01.17.44:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.10.10-01.17.44:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.10.10-01.17.44:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.10.10-01.17.44:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.10.10-01.17.44:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.10.10-01.17.44:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.10.10-01.17.44:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.10.10-01.17.44:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.10.10-01.17.44:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.10.10-01.17.44:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.10.10-01.17.44:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.10.10-01.17.44:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.10.10-01.17.44:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.10.10-01.17.44:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.10.10-01.17.44:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.10.10-01.17.44:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.10.10-01.17.44:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.10.10-01.17.44:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.10.10-01.17.44:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.10.10-01.17.44:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.10.10-01.17.44:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.10.10-01.17.44:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.10.10-01.17.44:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.10.10-01.17.44:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.10.10-01.17.44:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.10.10-01.17.44:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.10.10-01.17.44:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.10.10-01.17.44:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.10.10-01.17.44:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.10.10-01.17.44:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.10.10-01.17.44:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.10.10-01.17.44:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.10.10-01.17.44:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.10.10-01.17.44:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.10.10-01.17.44:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.10.10-01.17.44:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Door.uasset"
+[2019.10.10-01.17.44:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.10.10-01.17.44:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.10.10-01.17.44:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.10.10-01.17.44:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.10.10-01.17.44:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.10.10-01.17.44:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.10.10-01.17.44:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.10.10-01.17.44:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.10.10-01.17.44:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.10.10-01.17.44:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.10.10-01.17.44:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.10.10-01.17.44:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.10.10-01.17.44:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.10.10-01.17.44:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.10.10-01.17.44:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.10.10-01.17.44:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.10.10-01.17.44:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.10.10-01.17.44:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.10.10-01.17.44:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.10.10-01.17.44:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.10.10-01.17.44:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.10.10-01.17.44:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.10.10-01.17.44:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.10.10-01.17.44:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.10.10-01.17.44:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.10.10-01.17.44:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.10.10-01.17.44:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.10.10-01.17.45:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.10.10-01.17.45:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.10.10-01.17.45:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.10.10-01.17.45:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.10.10-01.17.45:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.10.10-01.17.45:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.10.10-01.17.45:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.10.10-01.17.45:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.10.10-01.17.45:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.10.10-01.17.45:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.10.10-01.17.45:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.10.10-01.17.45:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.10.10-01.17.45:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.10.10-01.17.45:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.10.10-01.17.45:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.10.10-01.17.45:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.10.10-01.17.45:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.10.10-01.17.45:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.10.10-01.17.45:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.10.10-01.17.45:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.10.10-01.17.45:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.10.10-01.17.45:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.10.10-01.17.45:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.10.10-01.17.45:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.10.10-01.17.45:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.10.10-01.17.45:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.10.10-01.17.45:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.10.10-01.17.45:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.10.10-01.17.45:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.10.10-01.17.45:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.10.10-01.17.45:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.10.10-01.17.45:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.10.10-01.17.45:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.10.10-01.17.45:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.10.10-01.17.45:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.10.10-01.17.45:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.10.10-01.17.45:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.10.10-01.17.45:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.10.10-01.17.45:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.10.10-01.17.45:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.10.10-01.17.45:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.10.10-01.17.45:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.10.10-01.17.45:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.10.10-01.17.45:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.10.10-01.17.45:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.10.10-01.17.45:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.10.10-01.17.45:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.10.10-01.17.45:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.10.10-01.17.45:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.10.10-01.17.45:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.10.10-01.17.45:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.10.10-01.17.45:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.10.10-01.17.45:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.10.10-01.17.45:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.10.10-01.17.45:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.10.10-01.17.45:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.10.10-01.17.45:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.10.10-01.17.45:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.10.10-01.17.45:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.10.10-01.17.45:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.10.10-01.17.45:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.10.10-01.17.45:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.10.10-01.17.45:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.10.10-01.17.45:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.10.10-01.17.45:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.10.10-01.17.45:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.10.10-01.17.46:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.10.10-01.17.46:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.10.10-01.17.46:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.10.10-01.17.46:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.10.10-01.17.46:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.10.10-01.17.46:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.10.10-01.17.46:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.10.10-01.17.46:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.10.10-01.17.46:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.10.10-01.17.46:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.10.10-01.17.46:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.10.10-01.17.46:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.10.10-01.17.46:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.10.10-01.17.46:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.10.10-01.17.46:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.10.10-01.17.46:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.10.10-01.17.46:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.10.10-01.17.46:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.10.10-01.17.46:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.10.10-01.17.46:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.10.10-01.17.46:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.10.10-01.17.46:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.10.10-01.17.46:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.10.10-01.17.46:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.10.10-01.17.46:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.10.10-01.17.46:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.10.10-01.17.46:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.10.10-01.17.46:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.10.10-01.17.46:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.10.10-01.17.46:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.10.10-01.17.46:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.10.10-01.17.46:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.10.10-01.17.46:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.10.10-01.17.46:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.10.10-01.17.46:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.10.10-01.17.46:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.10.10-01.17.46:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.10.10-01.17.46:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.10.10-01.17.46:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.10.10-01.17.46:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.10.10-01.17.46:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.10.10-01.17.46:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.10.10-01.17.46:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.10.10-01.17.46:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.10.10-01.17.46:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.10.10-01.17.46:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.10.10-01.17.46:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.10.10-01.17.46:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.10.10-01.17.46:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.10.10-01.17.46:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.10.10-01.17.46:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.10.10-01.17.47:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.10.10-01.17.47:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.10.10-01.17.47:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.10.10-01.17.47:537][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.10.10-01.17.47:894][  0]LogSavePackage: Moving '../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Floor_400x400A631BDE843D554308C5BB9B0B70AD0AB.tmp' to '../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.10.10-01.17.47:918][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2019.10.10-01.17.47:920][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.10-01.17.47:920][  0]LightingResults: New page: Lighting Build
+[2019.10.10-01.17.47:922][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-01.17.47:922][  0]MapCheck: New page: Map Check
+[2019.10.10-01.17.47:922][  0]LightingResults: New page: Lighting Build
+[2019.10.10-01.17.47:943][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.10.10-01.17.48:175][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.10-01.17.48:180][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.10-01.17.48:203][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.10-01.17.48:203][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.10-01.17.48:203][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.10.10-01.17.48:203][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.284
+[2019.10.10-01.17.48:291][  0]LogCollectionManager: Loaded 0 collections in 0.001426 seconds
+[2019.10.10-01.17.48:298][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/Collections/' took 0.00s
+[2019.10.10-01.17.48:298][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/Developers/Kotori/Collections/' took 0.00s
+[2019.10.10-01.17.48:298][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/Collections/' took 0.00s
+[2019.10.10-01.17.48:298][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.10-01.17.48:304][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 2863 classes and 680 folders.
+[2019.10.10-01.17.48:309][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2019.10.10-01.17.48:339][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.10-01.17.48:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-01.17.48:357][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-01.17.48:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-01.17.48:369][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-01.17.48:374][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.10-01.17.48:384][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.10-01.17.48:385][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.10-01.17.48:386][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.10-01.17.48:419][  0]LogRenderer: Reallocating scene render targets to support 2384x1284 Format 10 NumSamples 1 (Frame:1).
+[2019.10.10-01.17.48:532][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2019.10.10-01.17.48:532][  0]LogLoad: (Engine Initialization) Total time: 9.37 seconds
+[2019.10.10-01.17.48:532][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.10-01.17.48:563][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.10-01.17.49:732][129]LogAssetRegistry: Asset discovery search completed in 8.4081 seconds
+[2019.10.10-01.17.49:735][129]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.10.10-01.17.49:735][129]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2019.10.10-01.17.55:392][806]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-01.17.57:931][110]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-01.17.59:098][110]LogSlate: Window 'New Level' being destroyed
+[2019.10.10-01.17.59:105][110]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.10-01.17.59:107][110]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.10-01.17.59:110][110]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-01.17.59:114][110]LightingResults: New page: Lighting Build
+[2019.10.10-01.17.59:114][110]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.10.10-01.17.59:116][110]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-01.17.59:116][110]MapCheck: New page: Map Check
+[2019.10.10-01.17.59:116][110]LightingResults: New page: Lighting Build
+[2019.10.10-01.17.59:138][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.10.10-01.17.59:157][110]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.10-01.17.59:165][110]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.10-01.17.59:186][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.10.10-01.17.59:190][110]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.10-01.17.59:191][110]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.10.10-01.17.59:191][110]LogFileHelpers: Loading map 'Template_Default' took 0.088
+[2019.10.10-01.18.00:622][278]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-01.18.01:381][369]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-01.18.02:289][369]LogSlate: Window 'New Level' being destroyed
+[2019.10.10-01.18.02:295][369]LightingResults: New page: Lighting Build
+[2019.10.10-01.18.02:295][369]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-01.18.02:295][369]MapCheck: New page: Map Check
+[2019.10.10-01.18.02:295][369]LightingResults: New page: Lighting Build
+[2019.10.10-01.18.02:316][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.10.10-01.18.02:317][369]LogAIModule: Creating AISystem for world Untitled
+[2019.10.10-01.18.02:320][369]LoadErrors: New page: New Map
+[2019.10.10-01.18.06:378][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-01.18.17:452][ 77]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.10-01.20.31:698][120]LogSlate: Window 'New Level' being destroyed
+[2019.10.10-01.21.47:825][198]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.10-01.21.49:542][198]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.10-01.22.03:421][858]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.10-01.22.18:393][645]LogSlate: Window 'Open Level' being destroyed
+[2019.10.10-01.22.19:696][801]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.10-01.22.19:701][801]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.10-01.22.35:428][ 77]LogSlate: Window 'Save Level As' being destroyed
+[2019.10.10-01.22.35:466][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.10-01.22.35:472][ 77]LogSavePackage: Moving '../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Saved/EVOSimulation7998C3184080DE99EF0147B8AF175896.tmp' to '../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/EVOSimulation.umap'
+[2019.10.10-01.22.35:503][ 77]LogFileHelpers: Saving map 'EVOSimulation' took 0.070
+[2019.10.10-01.22.35:504][ 77]Cmd: MAP LOAD FILE="../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/EVOSimulation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.10-01.22.35:510][ 77]LightingResults: New page: Lighting Build
+[2019.10.10-01.22.35:511][ 77]LoadErrors: New page: Loading map: EVOSimulation.umap
+[2019.10.10-01.22.35:511][ 77]LogWorld: UWorld::CleanupWorld for EVOSimulation, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-01.22.35:511][ 77]MapCheck: New page: Map Check
+[2019.10.10-01.22.35:511][ 77]LightingResults: New page: Lighting Build
+[2019.10.10-01.22.35:533][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.10.10-01.22.35:556][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.10-01.22.35:580][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.10.10-01.22.35:587][ 77]LogAIModule: Creating AISystem for world EVOSimulation
+[2019.10.10-01.22.35:626][ 77]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.10-01.22.35:648][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.10-01.22.35:668][ 77]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.10-01.22.35:668][ 77]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2019.10.10-01.22.35:668][ 77]LogFileHelpers: Loading map 'EVOSimulation' took 0.165
+[2019.10.10-01.22.38:201][376]LogAssetEditorManager: Opening Asset editor for World /Game/EVOSimulation.EVOSimulation
+[2019.10.10-01.22.38:222][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2019.10.10-01.22.38:223][376]Cmd: MAP LOAD FILE="../../../../../../Users/Kotori/Desktop/Code Projects/ue/EVOSimulation/EVOSimulation/Content/EVOSimulation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.10-01.22.38:223][376]LightingResults: New page: Lighting Build
+[2019.10.10-01.22.38:223][376]LoadErrors: New page: Loading map: EVOSimulation.umap
+[2019.10.10-01.22.38:223][376]LogWorld: UWorld::CleanupWorld for EVOSimulation, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-01.22.38:223][376]MapCheck: New page: Map Check
+[2019.10.10-01.22.38:223][376]LightingResults: New page: Lighting Build
+[2019.10.10-01.22.38:245][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.10.10-01.22.38:247][376]LogAIModule: Creating AISystem for world EVOSimulation
+[2019.10.10-01.22.38:279][376]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.10-01.22.38:300][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.10.10-01.22.38:314][376]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.10-01.22.38:314][376]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2019.10.10-01.22.38:315][376]LogFileHelpers: Loading map 'EVOSimulation' took 0.092
+[2019.10.10-01.22.42:699][825]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.10-01.23.00:619][956]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.10-01.23.00:623][956]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.10-01.23.13:689][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.10.10-01.23.13:921][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.10.10-01.23.14:063][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2019.10.10-01.23.14:792][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
